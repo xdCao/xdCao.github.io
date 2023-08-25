@@ -4,10 +4,10 @@ https://xdcao.github.io/2023/08/24/%E6%90%9E%E6%87%82%E8%BF%99%E4%BA%9B%EF%BC%8C
 https://xdcao.github.io/categories/index.html
 https://xdcao.github.io/tags/index.html
 https://xdcao.github.io/
-https://xdcao.github.io/tags/%E5%BB%BA%E7%AB%99/
-https://xdcao.github.io/tags/%E6%95%88%E7%8E%87/
 https://xdcao.github.io/tags/MYSQL/
 https://xdcao.github.io/tags/%E9%9D%A2%E8%AF%95/
-https://xdcao.github.io/categories/%E6%95%88%E7%8E%87/
+https://xdcao.github.io/tags/%E5%BB%BA%E7%AB%99/
+https://xdcao.github.io/tags/%E6%95%88%E7%8E%87/
 https://xdcao.github.io/categories/%E9%9D%A2%E8%AF%95/
+https://xdcao.github.io/categories/%E6%95%88%E7%8E%87/
 https://xdcao.github.io/categories/%E9%9D%A2%E8%AF%95/%E5%90%8E%E7%AB%AF/
