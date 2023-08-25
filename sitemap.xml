@@ -56,20 +56,6 @@
 
   
   <url>
-    <loc>https://xdcao.github.io/tags/MYSQL/</loc>
-    <lastmod>2023-08-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xdcao.github.io/tags/%E9%9D%A2%E8%AF%95/</loc>
-    <lastmod>2023-08-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xdcao.github.io/tags/%E5%BB%BA%E7%AB%99/</loc>
     <lastmod>2023-08-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -83,17 +69,31 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://xdcao.github.io/categories/%E9%9D%A2%E8%AF%95/</loc>
+    <loc>https://xdcao.github.io/tags/MYSQL/</loc>
     <lastmod>2023-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
+    <loc>https://xdcao.github.io/tags/%E9%9D%A2%E8%AF%95/</loc>
+    <lastmod>2023-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>https://xdcao.github.io/categories/%E6%95%88%E7%8E%87/</loc>
+    <lastmod>2023-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xdcao.github.io/categories/%E9%9D%A2%E8%AF%95/</loc>
     <lastmod>2023-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
