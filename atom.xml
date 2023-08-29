@@ -3,11 +3,11 @@
   <title>xdCao&#39;s blog</title>
   
   
-  <link href="https://xdcao.github.io/atom.xml" rel="self"/>
+  <link href="https://blog.cuznlp.cn/atom.xml" rel="self"/>
   
-  <link href="https://xdcao.github.io/"/>
+  <link href="https://blog.cuznlp.cn/"/>
   <updated>2023-08-27T15:03:11.423Z</updated>
-  <id>https://xdcao.github.io/</id>
+  <id>https://blog.cuznlp.cn/</id>
   
   <author>
     <name>xdCao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>一次数据倾斜导致的MYSQL优化错误</title>
-    <link href="https://xdcao.github.io/%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C%E5%AF%BC%E8%87%B4%E7%9A%84MYSQL%E4%BC%98%E5%8C%96%E9%94%99%E8%AF%AF.html"/>
-    <id>https://xdcao.github.io/%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C%E5%AF%BC%E8%87%B4%E7%9A%84MYSQL%E4%BC%98%E5%8C%96%E9%94%99%E8%AF%AF.html</id>
+    <link href="https://blog.cuznlp.cn/%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C%E5%AF%BC%E8%87%B4%E7%9A%84MYSQL%E4%BC%98%E5%8C%96%E9%94%99%E8%AF%AF.html"/>
+    <id>https://blog.cuznlp.cn/%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C%E5%AF%BC%E8%87%B4%E7%9A%84MYSQL%E4%BC%98%E5%8C%96%E9%94%99%E8%AF%AF.html</id>
     <published>2023-08-27T14:05:35.000Z</published>
     <updated>2023-08-27T15:03:11.423Z</updated>
     
@@ -33,19 +33,19 @@
     
     
     
-    <category term="后端" scheme="https://xdcao.github.io/categories/%E5%90%8E%E7%AB%AF/"/>
+    <category term="后端" scheme="https://blog.cuznlp.cn/categories/%E5%90%8E%E7%AB%AF/"/>
     
-    <category term="MYSQL" scheme="https://xdcao.github.io/categories/%E5%90%8E%E7%AB%AF/MYSQL/"/>
+    <category term="MYSQL" scheme="https://blog.cuznlp.cn/categories/%E5%90%8E%E7%AB%AF/MYSQL/"/>
     
     
-    <category term="MYSQL" scheme="https://xdcao.github.io/tags/MYSQL/"/>
+    <category term="MYSQL" scheme="https://blog.cuznlp.cn/tags/MYSQL/"/>
     
   </entry>
   
   <entry>
     <title>告别信息过载，15分钟快速搭建rss服务</title>
-    <link href="https://xdcao.github.io/%E5%91%8A%E5%88%AB%E4%BF%A1%E6%81%AF%E8%BF%87%E8%BD%BD%EF%BC%8C15%E5%88%86%E9%92%9F%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BArss%E6%9C%8D%E5%8A%A1.html"/>
-    <id>https://xdcao.github.io/%E5%91%8A%E5%88%AB%E4%BF%A1%E6%81%AF%E8%BF%87%E8%BD%BD%EF%BC%8C15%E5%88%86%E9%92%9F%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BArss%E6%9C%8D%E5%8A%A1.html</id>
+    <link href="https://blog.cuznlp.cn/%E5%91%8A%E5%88%AB%E4%BF%A1%E6%81%AF%E8%BF%87%E8%BD%BD%EF%BC%8C15%E5%88%86%E9%92%9F%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BArss%E6%9C%8D%E5%8A%A1.html"/>
+    <id>https://blog.cuznlp.cn/%E5%91%8A%E5%88%AB%E4%BF%A1%E6%81%AF%E8%BF%87%E8%BD%BD%EF%BC%8C15%E5%88%86%E9%92%9F%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BArss%E6%9C%8D%E5%8A%A1.html</id>
     <published>2023-08-25T03:43:24.000Z</published>
     <updated>2023-08-25T04:02:03.957Z</updated>
     
@@ -59,19 +59,19 @@
     
     
     
-    <category term="效率" scheme="https://xdcao.github.io/categories/%E6%95%88%E7%8E%87/"/>
+    <category term="效率" scheme="https://blog.cuznlp.cn/categories/%E6%95%88%E7%8E%87/"/>
     
     
-    <category term="建站" scheme="https://xdcao.github.io/tags/%E5%BB%BA%E7%AB%99/"/>
+    <category term="建站" scheme="https://blog.cuznlp.cn/tags/%E5%BB%BA%E7%AB%99/"/>
     
-    <category term="效率" scheme="https://xdcao.github.io/tags/%E6%95%88%E7%8E%87/"/>
+    <category term="效率" scheme="https://blog.cuznlp.cn/tags/%E6%95%88%E7%8E%87/"/>
     
   </entry>
   
   <entry>
     <title>搞懂这些，mysql就可以啦</title>
-    <link href="https://xdcao.github.io/%E6%90%9E%E6%87%82%E8%BF%99%E4%BA%9B%EF%BC%8Cmysql%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%95%A6.html"/>
-    <id>https://xdcao.github.io/%E6%90%9E%E6%87%82%E8%BF%99%E4%BA%9B%EF%BC%8Cmysql%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%95%A6.html</id>
+    <link href="https://blog.cuznlp.cn/%E6%90%9E%E6%87%82%E8%BF%99%E4%BA%9B%EF%BC%8Cmysql%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%95%A6.html"/>
+    <id>https://blog.cuznlp.cn/%E6%90%9E%E6%87%82%E8%BF%99%E4%BA%9B%EF%BC%8Cmysql%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%95%A6.html</id>
     <published>2023-08-24T14:26:24.000Z</published>
     <updated>2023-08-29T02:30:03.688Z</updated>
     
@@ -88,21 +88,21 @@
     
     
     
-    <category term="面试" scheme="https://xdcao.github.io/categories/%E9%9D%A2%E8%AF%95/"/>
+    <category term="面试" scheme="https://blog.cuznlp.cn/categories/%E9%9D%A2%E8%AF%95/"/>
     
-    <category term="后端" scheme="https://xdcao.github.io/categories/%E9%9D%A2%E8%AF%95/%E5%90%8E%E7%AB%AF/"/>
+    <category term="后端" scheme="https://blog.cuznlp.cn/categories/%E9%9D%A2%E8%AF%95/%E5%90%8E%E7%AB%AF/"/>
     
     
-    <category term="MYSQL" scheme="https://xdcao.github.io/tags/MYSQL/"/>
+    <category term="MYSQL" scheme="https://blog.cuznlp.cn/tags/MYSQL/"/>
     
-    <category term="面试" scheme="https://xdcao.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    <category term="面试" scheme="https://blog.cuznlp.cn/tags/%E9%9D%A2%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>15分钟快速搭建hexo个人博客</title>
-    <link href="https://xdcao.github.io/%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAhexo.html"/>
-    <id>https://xdcao.github.io/%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAhexo.html</id>
+    <link href="https://blog.cuznlp.cn/%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAhexo.html"/>
+    <id>https://blog.cuznlp.cn/%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAhexo.html</id>
     <published>2023-08-24T11:49:58.000Z</published>
     <updated>2023-08-29T02:23:26.630Z</updated>
     
@@ -116,17 +116,17 @@
     
     
     
-    <category term="效率" scheme="https://xdcao.github.io/categories/%E6%95%88%E7%8E%87/"/>
+    <category term="效率" scheme="https://blog.cuznlp.cn/categories/%E6%95%88%E7%8E%87/"/>
     
     
-    <category term="建站" scheme="https://xdcao.github.io/tags/%E5%BB%BA%E7%AB%99/"/>
+    <category term="建站" scheme="https://blog.cuznlp.cn/tags/%E5%BB%BA%E7%AB%99/"/>
     
   </entry>
   
   <entry>
     <title>树，掌握这些，就可以啦</title>
-    <link href="https://xdcao.github.io/%E7%AE%97%E6%B3%95%E9%A2%98-%E6%A0%91.html"/>
-    <id>https://xdcao.github.io/%E7%AE%97%E6%B3%95%E9%A2%98-%E6%A0%91.html</id>
+    <link href="https://blog.cuznlp.cn/%E7%AE%97%E6%B3%95%E9%A2%98-%E6%A0%91.html"/>
+    <id>https://blog.cuznlp.cn/%E7%AE%97%E6%B3%95%E9%A2%98-%E6%A0%91.html</id>
     <published>2022-06-08T13:51:46.000Z</published>
     <updated>2023-08-27T13:56:52.463Z</updated>
     
@@ -140,21 +140,21 @@
     
     
     
-    <category term="面试" scheme="https://xdcao.github.io/categories/%E9%9D%A2%E8%AF%95/"/>
+    <category term="面试" scheme="https://blog.cuznlp.cn/categories/%E9%9D%A2%E8%AF%95/"/>
     
-    <category term="算法" scheme="https://xdcao.github.io/categories/%E9%9D%A2%E8%AF%95/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://blog.cuznlp.cn/categories/%E9%9D%A2%E8%AF%95/%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="面试" scheme="https://xdcao.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    <category term="面试" scheme="https://blog.cuznlp.cn/tags/%E9%9D%A2%E8%AF%95/"/>
     
-    <category term="算法" scheme="https://xdcao.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://blog.cuznlp.cn/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>链表题，掌握这些，就可以啦</title>
-    <link href="https://xdcao.github.io/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87-%E7%AE%97%E6%B3%95%E9%A2%98-%E9%93%BE%E8%A1%A8.html"/>
-    <id>https://xdcao.github.io/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87-%E7%AE%97%E6%B3%95%E9%A2%98-%E9%93%BE%E8%A1%A8.html</id>
+    <link href="https://blog.cuznlp.cn/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87-%E7%AE%97%E6%B3%95%E9%A2%98-%E9%93%BE%E8%A1%A8.html"/>
+    <id>https://blog.cuznlp.cn/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87-%E7%AE%97%E6%B3%95%E9%A2%98-%E9%93%BE%E8%A1%A8.html</id>
     <published>2022-06-05T13:41:07.000Z</published>
     <updated>2023-08-27T13:57:28.260Z</updated>
     
@@ -171,14 +171,14 @@
     
     
     
-    <category term="面试" scheme="https://xdcao.github.io/categories/%E9%9D%A2%E8%AF%95/"/>
+    <category term="面试" scheme="https://blog.cuznlp.cn/categories/%E9%9D%A2%E8%AF%95/"/>
     
-    <category term="算法" scheme="https://xdcao.github.io/categories/%E9%9D%A2%E8%AF%95/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://blog.cuznlp.cn/categories/%E9%9D%A2%E8%AF%95/%E7%AE%97%E6%B3%95/"/>
     
     
-    <category term="面试" scheme="https://xdcao.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    <category term="面试" scheme="https://blog.cuznlp.cn/tags/%E9%9D%A2%E8%AF%95/"/>
     
-    <category term="算法" scheme="https://xdcao.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="算法" scheme="https://blog.cuznlp.cn/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
