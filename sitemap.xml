@@ -119,20 +119,6 @@
 
   
   <url>
-    <loc>https://blog.cuznlp.cn/tags/%E5%BB%BA%E7%AB%99/</loc>
-    <lastmod>2023-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.cuznlp.cn/tags/%E6%95%88%E7%8E%87/</loc>
-    <lastmod>2023-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.cuznlp.cn/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2023-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -148,6 +134,20 @@
   
   <url>
     <loc>https://blog.cuznlp.cn/tags/vavr/</loc>
+    <lastmod>2023-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.cuznlp.cn/tags/%E5%BB%BA%E7%AB%99/</loc>
+    <lastmod>2023-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.cuznlp.cn/tags/%E6%95%88%E7%8E%87/</loc>
     <lastmod>2023-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -184,13 +184,6 @@
 
   
   <url>
-    <loc>https://blog.cuznlp.cn/categories/%E6%95%88%E7%8E%87/</loc>
-    <lastmod>2023-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.cuznlp.cn/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2023-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -199,6 +192,13 @@
   
   <url>
     <loc>https://blog.cuznlp.cn/categories/%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2023-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.cuznlp.cn/categories/%E6%95%88%E7%8E%87/</loc>
     <lastmod>2023-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
